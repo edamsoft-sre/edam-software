@@ -6,7 +6,7 @@ I enjoy playing with open source software :bouncing_ball_person:
 
 #### Focuses (focusi?)
 
- :snake: Python, :hammer_and_pick: Bash, :hand_over_mouth: Java, Javascript (:shrug:)
+ :snake: Python, :hammer_and_pick: Bash, :hand_over_mouth: Java, Javascript (:shrug:) Kafka :it:
  
 * :male_detective: deploy and operations automation using Ansible, Chef, IPcenter
 * :grimacing: monitoring applications on Docker, Kafka, AWS, Azure (Splunk, Kibana, Cloudwatch)
