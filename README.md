@@ -2,12 +2,11 @@
 
 
 DevOps and Site Reliability Engineer
-Telephony, Contact Center, Video and SIP
-Python, FastAPI/Flask, Data analysis
 
-#### 
+SIP Telephony, Contact Center, Video
 
- :snake:
+
+####  :snake:  Python :bug: kafka :burrito: CICD 🌥️ cloud 
  
  
 ##### ['ericarellano.tech'](http://ericarellano.tech)
