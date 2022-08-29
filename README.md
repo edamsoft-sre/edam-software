@@ -1,12 +1,14 @@
 ## About
 
 
-DevOps and Site Reliability Engineer
-
-SIP Telephony, Contact Center, Video
+Infrastructure, DevOps and Site Reliability Engineer
 
 
-####  :snake:  Python :bug: kafka :burrito: CICD 🌥️ cloud 
+
+Former Contact Center, SIP (OpenSIPS, Freeswitch, Cisco) and Video Telephony Architect
+
+
+####  :snake:  Python is my chosen poison
  
  
 ##### ['ericarellano.tech'](http://ericarellano.tech)
