@@ -2,7 +2,7 @@
 
 * Architecting software infrastructure with Terraform, Kubernetes
 
-* Observability :glasses:
+* Observability :eyeglasses:
       
   DataDog, ELK, Grafana, Metrics, Traces, you know you wanna have :eyes: on it all
 
