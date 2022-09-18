@@ -1,24 +1,4 @@
-## Who :question:
-
-El Edam pués, ¿quién más? :bike:
-
-## Where? 🏖️
-
-Before the law stands a dude... 
-
-- Git push, he says.  
-- I have just one comment, says the Law.  
-- Well, :poop: says the dude. Ok, fixed it.
-- Merged, says the Law
-
-## What? 🐳
-
-Irreverent Data Infrastructure, DevOps and Site Reliability Engineering.  
-
-No bullshit like Jira, Scrum, and politics of attitude.  And absolutely NO Golf :golf:
-
-
-## How? 👾
+#### Irreverent Data Infrastructure, DevOps and Site Reliability, Python tinkering
 
 * Architecting software infrastructure with Terraform, Kubernetes
 
