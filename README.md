@@ -4,11 +4,11 @@ El Edam pués, ¿quién más? :bike:
 
 ## Where? 🏖️
 
-Before the law stands a man... 
+Before the law stands a dude... 
 
-- Git push, he says.  
+- Git push, they says.  
 - I have just one comment, says the Law.  
-- Well, :poop: says the man. 
+- Well, :poop: says the dude. 
 - Merged, says the Law
 
 ## What? 🐳
