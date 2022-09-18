@@ -1,4 +1,4 @@
-#### Irreverent Data Infrastructure, DevOps and Site Reliability, Python tinkering
+#### Irreverent Data Infrastructure, DevOps and Site Reliability, Python software engineering
 
 * Architecting software infrastructure with Terraform, Kubernetes
 
