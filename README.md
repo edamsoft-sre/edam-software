@@ -1,14 +1,27 @@
-## About
+## Who?
+
+El Edam pués, ¿quién más?
+
+## Where?
+
+Before the law stands a man...
+
+## What?
+
+Data Infrastructure, DevOps and Site Reliability Engineering
 
 
-Infrastructure, DevOps and Site Reliability Engineer
+* Architecting software infrastructure with Terraform, Kubernetes
 
+* Observability (DataDog, ELK, Kibana, Grafana, you know you wanna have :eyes: on it all
 
+* I got this cloud thing figured out :umbrella: bring it!!
+   
+   GCP :cyclone: AWS :toilet: Azure :sweat_drops: DigitalOcean :ocean:
 
-Former Contact Center, SIP (OpenSIPS, Freeswitch, Cisco) and Video Telephony Architect
+* DevOps (yeah I said that already) with Bash, Python, Ansible, Netlify, Jenkins, etc.
 
+* :snake:  Python APIs with FastAPI, Flask, static websites with Pelican, :neckbeard: general coding fanatic
 
-####  :snake:  Python is my chosen poison
  
- 
-##### ['ericarellano.tech'](http://ericarellano.tech)
+['blog.ericarellano.tech'](http://blog.ericarellano.tech)
