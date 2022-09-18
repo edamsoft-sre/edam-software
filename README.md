@@ -21,7 +21,7 @@ Data Infrastructure, DevOps and Site Reliability Engineering
 
 * Observability 👺
       
-      DataDog, ELK, Grafana, Metrics, Traces, you know you wanna have :eyes: on it all
+  DataDog, ELK, Grafana, Metrics, Traces, you know you wanna have :eyes: on it all
 
 * I got this cloud thing figured out :umbrella: bring it!!
    
