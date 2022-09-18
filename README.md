@@ -6,14 +6,17 @@ El Edam pués, ¿quién más? :bike:
 
 Before the law stands a dude... 
 
-- Git push, they says.  
+- Git push, he says.  
 - I have just one comment, says the Law.  
-- Well, :poop: says the dude. 
+- Well, :poop: says the dude. Ok, fixed it.
 - Merged, says the Law
 
 ## What? 🐳
 
-Data Infrastructure, DevOps and Site Reliability Engineering
+Irreverent Data Infrastructure, DevOps and Site Reliability Engineering.  
+
+No bullshit like Jira, Scrum, and politics of attitude.  And absolutely NO Golf :golf:
+
 
 ## How? 👾
 
