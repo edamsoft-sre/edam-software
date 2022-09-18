@@ -34,7 +34,9 @@ No bullshit like Jira, Scrum, and politics of attitude.  And absolutely NO Golf 
 
 * DevOps (yeah I said that already) with Bash, Python, Ansible, Netlify, Jenkins, etc.
 
-* :snake:  Python APIs with FastAPI, Flask, static websites with Pelican, :neckbeard: general coding fanatic
+* :snake:  Python APIs with FastAPI, Flask, static websites with Pelican, Github Emojis in Python with my custom Markdown extension
+
+* :neckbeard: general coding fanatic
 
  
 ['blog.ericarellano.tech'](http://blog.ericarellano.tech)
